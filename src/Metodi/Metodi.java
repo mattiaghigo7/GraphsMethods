@@ -87,6 +87,10 @@ public class Metodi {
 //		return bilancio;
 //	}
 	
+	
+	
+	
+	
 //	public boolean esistePercorso(Airport origin, Airport destination) {
 //		ConnectivityInspector<Airport, DefaultWeightedEdge> inspect = new ConnectivityInspector<Airport, DefaultWeightedEdge>(this.grafo);
 //		Set<Airport> componenteConnessaOrigine = inspect.connectedSetOf(origin);
