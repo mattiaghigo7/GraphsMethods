@@ -2,6 +2,33 @@ package Metodi;
 
 public class Metodi {
 
+//	public Grado getPesoMassimo(){
+//		Movie movie = null;
+//		int bestGrado = 0;
+//		Grado g = null;
+//		for(Movie m : this.vertici) {
+//			int grado = 0;
+//			List<Movie> successori = Graphs.successorListOf(this.grafo, m);
+//			for(Movie m2 : successori) {
+//				for(Coppia c : this.archi) {
+//					if((c.getM1().equals(m) && c.getM2().equals(m2)) ||  (c.getM1().equals(m2) && c.getM2().equals(m))) {
+//						grado+=c.getN();
+//					}
+//				}
+//			}
+//			if(grado>bestGrado) {
+//				movie=m;
+//				bestGrado=grado;
+//			}
+//		}
+//		g = new Grado(movie,bestGrado);
+//		return g;
+//	}
+	
+	
+	
+	
+	
 //	public Integer calcolaConnesse() {
 //		ConnectivityInspector<People, DefaultEdge> inspector = new ConnectivityInspector<>(this.grafo);
 //		return inspector.connectedSets().size();
