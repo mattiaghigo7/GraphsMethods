@@ -1,7 +1,23 @@
 package Metodi;
 
+
 public class Metodi {
 
+//	public double getMax() {
+//		double max = 0;
+//		for(DefaultWeightedEdge d : this.grafo.edgeSet()) {
+//			double grado = grafo.getEdgeWeight(d);
+//			if(grado>max) {
+//				max=grado;
+//			}
+//		}
+//		return max;
+//	}
+	
+	
+	
+	
+	
 //	public Grado getPesoMassimo(){
 //		Movie movie = null;
 //		int bestGrado = 0;
